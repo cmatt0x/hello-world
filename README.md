@@ -1,2 +1,3 @@
 # hello-world
-This is a test..
+hello everyone-
+Just learning about GitHub and creating a test repo.
